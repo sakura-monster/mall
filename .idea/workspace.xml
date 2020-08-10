@@ -2,7 +2,38 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3e5740d-16ca-4a2a-98a1-30e637410ffb" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/myRoute/MyRoute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/myRoute/myRoute.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/navBar/NavBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/navBar/navBar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/tabBar/TabBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/tabBar/tabBar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/cart/Cart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/classify/Classify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/classify/classify.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/home/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/home/components/swipe/Swipe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/home/components/swipe/swipe.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/home/home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/index/Index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/index/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/login/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/login/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/mine/Mine.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/lazyComponent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/rem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/util/request.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,17 +41,43 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="ProjectId" id="1fiNQgyysoYZN1Tidz1a6Kx4s93" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="添加" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.stylelint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.stylelint" value="" />
     <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/react-scripts" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="E:\WebStorm\WebStorm 2019.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -35,7 +92,7 @@
     </option>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\李思捷\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -44,7 +101,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596696938749</updated>
-      <workItem from="1596696942661" duration="4043000" />
+      <workItem from="1596696942661" duration="9572000" />
+      <workItem from="1596715858224" duration="26053000" />
+      <workItem from="1596853679899" duration="24506000" />
+      <workItem from="1596888137164" duration="15041000" />
+      <workItem from="1596961448810" duration="15419000" />
+      <workItem from="1597020217623" duration="39414000" />
     </task>
     <task id="LOCAL-00001" summary="123">
       <created>1596698446811</created>
@@ -66,8 +128,29 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
     <MESSAGE value="123" />
     <option name="LAST_COMMIT_MESSAGE" value="123" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

@@ -1,0 +1,92 @@
+.mine{
+
+}
+.mine>.top{
+  height: 45%;
+  background: #ffffff;
+}
+.mine>.top .avatar{
+  height: 35%;
+  position: relative;
+  left:50%;
+  transform: translate(-50%,-50%);
+  border-radius: 50%;
+  border: .05rem solid #ffffff;
+}
+.mine>.top .orange{
+  height: 50%;
+  background: coral;
+  text-align: center;
+  color: white;
+  font-size: .14rem;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-between;
+  padding: .05rem .1rem 0;
+}
+.mine>.top p{
+  font-size: .12rem;
+  text-align: center;
+  position: relative;
+  top: -18%;
+  color: gray;
+  letter-spacing: .02rem;
+}
+.mine>.top .cc{
+  font-size: .14rem;
+  font-weight: 600;
+  padding-left: .1rem;
+  position: relative;
+  top: -.2rem;
+}
+
+.icon-heart{
+  color: orangered;
+  font-size: .12rem;
+  margin-right: .05rem;
+}
+.mine .bottom{
+  margin-top: .1rem;
+  background: white;
+}
+.mine .bottom>.top{
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  font-size: .14rem;
+  padding: .1rem;
+  border-bottom: 1px solid #dddddd;
+}
+.mine .bottom>.top>div{
+  flex: 1;
+}
+.mine .bottom>.top>div:nth-child(2){
+  color: #aaaaaa
+}
+
+.mine .bottom>.center{
+  display: flex;
+  padding: .1rem;
+  font-size: .12rem;
+  color: gray;
+}
+.mine .bottom>.center>div{
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.mine .bottom>.center>div>i{
+  margin-bottom: .05rem;
+}
+.mine .sh{
+  font-size: .14rem;
+  padding: .2rem .1rem;
+  background: white;
+  margin-top: .1rem;
+  color: gray;
+}
+
+
+

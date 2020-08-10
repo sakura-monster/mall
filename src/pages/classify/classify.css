@@ -1,0 +1,51 @@
+.classify{
+  display: flex;
+  height: calc(100% - .35rem);
+}
+.classify>.left{
+  flex: 2.5;
+  border-right: 1px solid #dddddd;
+  background: #eeeeee;
+}
+.classify > .left .active{
+  color: #ff9a00;
+  background: #ffffff;
+}
+.classify>.left li{
+  text-align: center;
+  font-size: .14rem;
+  line-height: .35rem;
+}
+
+.classify>.right{
+  flex: 7.5;
+}
+
+.classify>.right ul{
+  display: flex;
+  flex-wrap: wrap;
+}
+.classify>.right ul li{
+  width: 45%;
+  border: 1px solid coral;
+  border-radius: .1rem;
+  overflow: hidden;
+  margin:2.5%;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+}
+.classify>.right ul li img{
+  width: 100%;
+  height: calc(100% - .25rem);
+}
+.classify>.right ul li .title{
+  bottom: 0;
+  line-height: .25rem;
+  font-size: .12rem;
+  text-align: center;
+  color: #ffffff;
+  background: coral;
+  margin-bottom: -10px;
+  width: 100%;
+}

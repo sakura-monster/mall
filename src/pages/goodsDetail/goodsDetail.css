@@ -1,0 +1,150 @@
+.goodsDetail{
+  height: 100vh;
+}
+.goodsDetail .goodsDetail-info{
+  height: calc(100% - .35rem - .45rem);
+  overflow-y: scroll;
+  font-size: 0;
+}
+
+.goodsDetail .goodsDetail-info img{
+  width: 100%;
+}
+.goodsDetail .goodsDetail-info .goodsInfo{
+  padding: .1rem;
+  font-size: .14rem;
+  position: relative;
+}
+
+.goodsDetail .goodsDetail-info .goodsInfo .title{
+  font-size: .16rem;
+  line-height: .3rem;
+}
+.goodsDetail .goodsDetail-info .goodsInfo .price{
+  font-size: .14rem;
+  color: orangered;
+  margin: .05rem 0;
+}
+.goodsDetail .goodsDetail-info .goodsInfo .oldPrice{
+  font-size: .12rem;
+  color: gray;
+  text-decoration: line-through;
+  margin: .05rem 0;
+}
+.goodsDetail .goodsDetail-info .goodsInfo .size{
+  font-size: .12rem;
+  margin: .1rem 0;
+}
+.goodsDetail .goodsDetail-info .goodsInfo .size span{
+  padding: .01rem .05rem;
+  margin: 0 .05rem;
+  border: 1px solid coral;
+  color: coral;
+  border-radius: .03rem;
+}
+
+.goodsDetail .goodsDetail-info .goodsInfo .tag{
+  position: absolute;
+  bottom: .1rem;
+  right: .1rem;
+}
+
+.goodsDetail .goodsDetail-info .goodsInfo .tag span{
+  padding: .01rem .05rem;
+  margin: 0 .05rem;
+  color: coral;
+  border-radius: .03rem;
+  border: 1px solid coral;
+  font-size: .12rem;
+}
+
+.addCart{
+  height: .45rem;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+.addCart .right{
+  height: 100%;
+  width: 35%;
+  background: coral;
+  float: right;
+  color: white;
+  text-align: center;
+  line-height: .45rem;
+  font-size: .16rem;
+}
+
+.addInfo{
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0,0,0,.4);
+  position: fixed;
+  left: 0;
+  top:0
+}
+
+.addInfo .white{
+  height: 50%;
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  background: #ffffff;
+  padding: .1rem;
+}
+.addInfo .white .title{
+  font-size: .15rem;
+  font-weight: 600;
+  margin-bottom: .1rem;
+}
+.addInfo .white img{
+  width: .8rem;
+}
+.addInfo .white .sizeTitle{
+  font-size: .14rem;
+  margin: .1rem 0;
+  font-weight: bold;
+}
+.addInfo .white .chooseSize{
+  margin: .2rem 0;
+}
+.addInfo .white .chooseSize span{
+  padding: .08rem .1rem;
+  margin: 0 .05rem;
+  border: 1px solid gray;
+  color: gray;
+  border-radius: .03rem;
+  font-size: .12rem;
+}
+.addInfo .white .btn{
+  width: 35%;
+  line-height: .4rem;
+  background: coral;
+  text-align: center;
+  color: white;
+  border-radius: .1rem;
+  font-size: .16rem;
+  position: relative;
+  left: 50%;
+  transform: translate(-50%,0);
+}
+.addInfo .white .chooseSize .active{
+  border: 1px solid coral;
+  color: coral;
+  background: #ffffff;
+}
+/*description: "<p><img src="https://img10.360buyimg.com/imgzone/jfs/t1/120960/28/6102/294771/5efea004Edca451c4/9b069147b86e8b04.jpg" style="max-width:100%;"><img src="https://img10.360buyimg.com/imgzone/jfs/t1/111385/4/11458/159734/5efea031Ee3c461ae/f20249db9b8bf79b.jpg" style="max-width: 100%;"><img src="https://img10.360buyimg.com/imgzone/jfs/t1/136316/11/6054/364348/5f27bbc0Ec1029e91/6ec4e9430f4f2fb7.jpg" style="max-width: 100%;"><br></p>"*/
+/*first_cateid: 14*/
+/*goodsname: "联想笔记本"*/
+/*id: 9*/
+/*img: "/uploads/a45411b0-d57e-11ea-9a8a-2b73d33dd399.jpg"*/
+/*ishot: 1*/
+/*isnew: 1*/
+/*market_price: 4999*/
+/*price: 3999*/
+/*second_cateid: 26*/
+/*specsattr: "["13.3","14","15.6"]"*/
+/*specsid: 25*/
+/*specsname: "电脑尺寸"*/
+/*status: 1*/

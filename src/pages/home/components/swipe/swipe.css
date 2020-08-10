@@ -1,0 +1,7 @@
+.swipe{
+  touch-action: none;
+}
+.swipe img{
+  width: 100vw!important;
+  height: 235px!important;
+}

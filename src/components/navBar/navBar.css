@@ -1,0 +1,30 @@
+.navBar{
+  width: 100%;
+  height: .4rem;
+  line-height: .4rem;
+  border-bottom: 1px solid #dddddd;
+  background: #ffffff;
+  box-sizing: border-box;
+  position: relative;
+}
+.navBar>img{
+  width: 25%;
+  margin-left: .1rem;
+  position: absolute;
+  top: 50%;
+  transform: translate(0,-50%);
+}
+.navBar>input{
+  width: 30%;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(0,-50%);
+  border: none;
+  background: #dddddd;
+  height: .25rem;
+  line-height: .25rem;
+  border-radius: .12rem;
+  padding-left: .15rem;
+  outline: none;
+}

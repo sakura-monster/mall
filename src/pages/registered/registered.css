@@ -1,0 +1,34 @@
+.registered{
+  width: 100vw;
+  height: 100vh;
+  background: #ffffff;
+  font-size: .12rem;
+}
+.registered>.registered-box{
+  padding: .2rem;
+  margin-top: 40%;
+}
+.registered>.registered-box>div{
+  padding: .15rem 0;
+  border-bottom: 1px solid #aaaaaa;
+  display: flex;
+  letter-spacing: .05rem;
+}
+.registered>.registered-box>div>input{
+  flex: 1;
+  background: transparent;
+  border: none;
+}
+.registered>.registered-box>p{
+  margin: .2rem 0;
+  text-align: right;
+  color: #aaaaaa;
+}
+.registered>.registered-box>button{
+  width: 100%;
+  height: .35rem;
+  background: coral;
+  color: #ffffff;
+  border-radius: .06rem;
+  border: none;
+}
